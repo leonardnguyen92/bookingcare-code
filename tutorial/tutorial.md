@@ -1,7 +1,7 @@
 # <p align="center"> BOOKINGCARE WEBSITE PROJECT TUTORIAL </p> 
 ***
 ## 1. Preparing to Become a Fullstack Developer (4h)
-- [Foundational knowledge to prepare](tutorial)
+- [Foundational knowledge to prepare](tutorial)<br>
  :point_right: Kiến thức nền tảng cần chuẩn bị
 - [Environment setup: VSCode, NodeJS, Git](tutorial)
  :point_right: Cài đặt môi trường: VSCode, NodeJS, Git
