@@ -1,79 +1,24 @@
 # <p align="center"> BOOKINGCARE WEBSITE PROJECT </p> 
 ***
-## 1. Preparing to Become a Fullstack Developer (4h)
-- [Foundational knowledge to prepare](tutorial)
-- [Environment setup: VSCode, NodeJS, Git](tutorial)
-- [Basic HTML, CSS, SCSS](tutorial)
-- [Basic Git/GitHub](tutorial)
-***
-## 2. Backend with NodeJS & Basic Database (7h)
-- [What is Node.js?](tutorial)
-- [Creating a backend server with Express](tutorial)
-- [Basic CRUD with MySQL/Postgres + Sequelize ORM](tutorial)
-- [Testing APIs with Postman](tutorial)
-***
-## 3. Authentication & Authorization (6h)
-- [Introduction: Authentication & Authorization](tutorial)
-- [JWT (Access token + Refres token)](tutorial)
-- [User authentication middleware](tutorial)
-- [API role-based authorization (roles: user, doctor, admin)](tutorial)
-- [Practice: protect CRUD APIs](tutorial)
-***
-## 4. React Basics (12h)
-- [Why choose React (vs Angular/Vue)](tutorial)
-- [React core: state, props, event, lifecycle](tutorial)
-- [Connecting to backend APIs](tutorial)
-- [CRUD with React + Axios](tutorial)
-***
-## 5. Database Analysis & Design (6h)
-- [Requirement analysis -> ERD (Entity Relationship Diagram)](tutorial)
-- [Types of relationships (1-n, n-n)](tutorial)
-- [Data normalization, avoiding redundancy](tutorial)
-- [Advanced Sequelize relationships](tutorial)
-- [Practice: design User, Doctor, Appointment, Clinic, Specialty tables](tutorial)
-***
-## 6. BookingCare UI Clone (9h)
-- [Bulid BookingCare Home Page (based on bookingcare.vn)](tutorial)
-- [Integrate React-slider-carousel library](tutorial)
-- [Multi-language interface (English - Vietnamese)](tutorial)
-***
-## 7. Sate Management with Redux (10h)
-- [Introduction to Redux Toolkit](tutorial)
-- [Multi-language with Redux](tutorial)
-- [Role-based menu (admin, user)](tutorial)
-- [CRUD with Redux](tutorial)
-***
-## 8. Completing Doctor Information Section (10h)
-- [Upload/read images (BLOB in DB)](tutorial)
-- [Create blog with Markdown](tutorial)
-- [Sequelize eager loading](tutorial)
-- ["Featured Doctors" & doctor details](tutorial)
-***
-## 9. Appointment Booking Feature (18h)
-- [CRUD schedule by time (left section)](tutorial)
-- [CRUD appointment booking (right section)](tutorial)
-- [Booking modal](tutorial)
-- [Send booking confirmation emails (NodeMailer)](tutorial)
-***
-## 10. Doctor Features (11h)
-- [CRUD Clinic](tutorial)
-- [CRUD Specialty](tutorial)
-- [Display doctors by clinic/specialty](tutorial)
-- [Thinhking in React (reusable components)](tutorial)
-- [Patient booking list](tutorial)
-- [Send invoices/prescriptions (NodeMailer + attachment)](tutorial)
-***
-## 11. Application Deployment (5h)
-- [Migrate DB to Postgres](tutorial)
-- [Deploy Node.js backend (Render, Railway, VPS)](tutorial)
-- [Deploy React frontend (Vercel/Netlify)](tutorial)
-- [Integrate Social Plugins (Facebook Like/Share/Comment)](tutorial)
-- [Embed Facebook Chat Plugin](tutorial)
-***
-## 12. Docker & Basic DevOps (6h)
-- [What is Docker and why use it](tutorial)
-- [Writing Dockerfile for Node.js backend](tutorial)
-- [Dockerize React frontend](tutorial)
-- [Docker Compose (Node + Postgres + Redis)](tutorial)
-- [Deploy Docker app to VPS/Cloud](tutorial)
-***
+## Technology
+:ballot_box_with_check: Frontend: Reactjs + Redux. HTML/CSS-scss/Bootstrap5 (reactstrap) <br>
+:ballot_box_with_check: Backend: Node.js (Express) + MySql/PostgresSQL (Sequelize)
+## Project Structure
+```
+bookingcare-code/
+├── /                       # Project Construction Instructions
+|       ├── 
+|       └── 
+|
+|
+|
+└──README.md                        # Project Documents
+```
+## Guides
+[Go to Guides](https://github.com/leonardnguyen92/bookingcare-tutorial)
+## Contact
+If you have any comments or want to cooperate in development, please contact us via:
+- :email: [Nguyễn Hoàn](mailto:leonardnguyen92@gmail.com)
+- :telephone_receiver: [Nguyễn Hoàn](https://zalo.me/84355467323)
+
+> © 2025 Leonard Nguyen – Made with ❤️ in Hà Nội, Việt Nam.
